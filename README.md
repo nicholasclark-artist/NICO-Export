@@ -1,24 +1,24 @@
+<center> <h1>NICO Export</h1> </center>
+
 <p align="center">
-    <a href="https://github.com/nicholasclark-artist/DCG/releases/download/v3.2.0/dcg_3_2_0.zip">
+    <a href="">
         <img src="https://img.shields.io/badge/Download-v0.4-blue.svg?style=flat-square" alt="NICO Export Download">
     </a>
-    <a href="https://github.com/nicholasclark-artist/DCG/issues">
-        <img src="https://img.shields.io/github/issues/nicholasclark-artist/DCG.svg?style=flat-square" alt="NICO Export Issues">
+    <a href="https://github.com/nicholasclark-artist/NICO-Export/issues">
+        <img src="https://img.shields.io/github/issues/nicholasclark-artist/NICO-Export.svg?style=flat-square" alt="NICO Export Issues">
     </a>
     <!-- <a href="https://github.com/nicholasclark-artist/DCG/wiki">
         <img src="https://img.shields.io/badge/DCG-Wiki-orange.svg?style=flat-square" alt="DCG Wiki">
     </a> -->
-    <a href="https://github.com/nicholasclark-artist/DCG/blob/master/LICENSE">
+    <a href="https://github.com/nicholasclark-artist/NICO-Export/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-GPLv3-lightgrey.svg?style=flat-square" alt="NICO Export License">
     </a>
 </p>
 
-</br>
-
 <p align="center">
     <sup>
         <strong>
-            Please, use the <a href="https://github.com/nicholasclark-artist/DCG/issues">Issue Tracker</a> to report a bug or propose a feature.
+            Please, use the <a href="https://github.com/nicholasclark-artist/NICO-Export/issues">Issue Tracker</a> to report a bug or propose a feature.
         </strong>
     </sub>
 </p>
