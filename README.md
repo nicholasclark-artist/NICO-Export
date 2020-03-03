@@ -5,7 +5,7 @@
 [![NICO Export Issues][issues]](https://github.com/nicholasclark-artist/NICO-Export/issues)
 [![NICO Export License][license]](https://github.com/nicholasclark-artist/NICO-Export/blob/master/LICENSE)
 
-## What is NICO Export?
+## What's NICO Export?
 
 NICO Export is a Blender 2.8 addon designed to improve the fbx export process.
 
