@@ -27,15 +27,26 @@ NICO Export is a Blender 2.8 addon designed to improve the fbx export process.
 NICO Export is located in the [sidebar] of the 3D viewport. Here's a quick overview of the export panel.
 
 <p align="center">
-  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_overview.jpg" width="500">
+  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_overview.jpg" width="600">
 </p>
 
+---
 
 The image below shows how each export mode handles an object hierarchy based on the user's selection.
 
 <p align="center">
   <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_mode.jpg" width="1000">
 </p>
+
+---
+
+The collision tools allow users to quickly create convex hulls from selected meshes.
+
+<p align="center">
+  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_hull.gif" width="600">
+</p>
+
+---
 
 <!-- References -->
 [sidebar]: https://docs.blender.org/manual/en/latest/interface/window_system/regions.html#regions
