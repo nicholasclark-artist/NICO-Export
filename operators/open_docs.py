@@ -14,6 +14,6 @@ class NC_OT_OpenDocs(bpy.types.Operator):
     bl_description = "Open documentation"
 
     def execute(self, context):
-        os.system("")
+        os.system("start https://github.com/nicholasclark-artist/NICO-Export/blob/master/README.md")
 
         return {"FINISHED"}
