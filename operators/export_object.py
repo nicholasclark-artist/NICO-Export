@@ -11,6 +11,7 @@ from nico_export.utils import objects
 
 class NC_OT_Export(Operator):
     """Gathers objects and exports with selected settings."""
+
     bl_label = "Export"
     bl_idname = "object.export"
     bl_description = "Export with selected settings"

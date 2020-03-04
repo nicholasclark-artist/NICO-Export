@@ -221,7 +221,6 @@ class NC_PT_ExportSettings(bpy.types.Panel):
         default="Z",
     )
 
-
     def draw(self, context):
         scene = context.scene
         ob = context.object
