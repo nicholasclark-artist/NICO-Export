@@ -16,7 +16,7 @@ NICO Export is a Blender 2.8 addon designed to improve the fbx export process.
 ## What's Included in NICO Export?
 
 - Batch exports
-- Multiple export modes to fit specific workflows
+- Multiple export modes to fit several workflows
 - Collision mesh creation tools
 - Export at scene origin
 - Export objects to individual subpaths
