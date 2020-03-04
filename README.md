@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_thumb.jpg" width="300">
+  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_thumb.jpg" width="400">
 </p>
-<br/>
-<br/>
 
 # NICO Export
 
@@ -24,9 +22,31 @@ NICO Export is a Blender 2.8 addon designed to improve the fbx export process.
 - Export objects to individual subpaths
 - Name prefixes
 
-<!-- Image Refs -->
+## How do I use NICO Export?
+
+NICO Export is located in the [sidebar] of the 3D viewport. Here's a quick overview of the export panel.
+
+<p align="center">
+  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_overview.jpg" width="500">
+</p>
+
+
+The image below shows how each export mode handles an object hierarchy differently based on the user's selection.
+
+<p align="center">
+  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_mode.jpg" width="1000">
+</p>
+
+<!-- References -->
+[sidebar]: https://docs.blender.org/manual/en/latest/interface/window_system/regions.html#regions
+
 [thumb]: https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_thumb.jpg
 
 [version]: https://img.shields.io/github/v/release/nicholasclark-artist/NICO-Export?style=flat-square
 [issues]: https://img.shields.io/github/issues/nicholasclark-artist/NICO-Export?style=flat-square
 [license]: https://img.shields.io/github/license/nicholasclark-artist/NICO-Export?style=flat-square
+
+<!--
+place following link at start of shield links if badges keep timing out
+    https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=
+-->
