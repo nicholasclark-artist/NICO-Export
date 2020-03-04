@@ -1,0 +1,5 @@
+**/test
+**/release
+**/__pycache__
+*.pyc
+Thumbs.db
