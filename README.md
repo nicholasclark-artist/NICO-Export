@@ -31,7 +31,7 @@ NICO Export is located in the [sidebar] of the 3D viewport. Here's a quick overv
 </p>
 
 
-The image below shows how each export mode handles an object hierarchy differently based on the user's selection.
+The image below shows how each export mode handles an object hierarchy based on the user's selection.
 
 <p align="center">
   <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_mode.jpg" width="1000">
