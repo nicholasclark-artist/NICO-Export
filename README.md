@@ -1,4 +1,6 @@
 
+![NICO Export Thumbnail][thumb]
+
 # NICO Export
 
 [![NICO Export Version][version]](https://github.com/nicholasclark-artist/NICO-Export/releases)
@@ -19,6 +21,8 @@ NICO Export is a Blender 2.8 addon designed to improve the fbx export process.
 - Name prefixes
 
 <!-- Image Refs -->
+[thumb]: https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_thumb.jpg
+
 [version]: https://img.shields.io/github/v/release/nicholasclark-artist/NICO-Export?style=flat-square
 [issues]: https://img.shields.io/github/issues/nicholasclark-artist/NICO-Export?style=flat-square
 [license]: https://img.shields.io/github/license/nicholasclark-artist/NICO-Export?style=flat-square
