@@ -1,5 +1,9 @@
 
-![NICO Export Thumbnail][thumb]
+<p align="center">
+  <img src="https://github.com/nicholasclark-artist/NICO-Export/blob/resources/nico_export_thumb.jpg" width="300">
+</p>
+<br/>
+<br/>
 
 # NICO Export
 
